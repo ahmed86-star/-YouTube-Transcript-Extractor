@@ -24,7 +24,7 @@ A clean, user-friendly web application that automatically extracts and displays 
 
 ## 🖥️ Demo
 
-Check out the live demo: [YouTube Transcript Extractor](https://admiring-colden9-adgcf.dev-3.tempolabs.ai)
+Check out the live demo: [YouTube Transcript Extractor] (https://you-tube-transcript-extractor.vercel.app/)
 
 ## 🛠️ Technologies Used
 

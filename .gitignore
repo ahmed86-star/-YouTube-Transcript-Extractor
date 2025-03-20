@@ -32,3 +32,5 @@ core
 
 .github/
 
+# Ignore sensitive files
+src/lib/openai.ts
